@@ -1,0 +1,82 @@
+{
+    "MV_-PROD-1-1744002189": {
+        "name": [
+            "MV_hairstyle"
+        ],
+        "category_services": {
+            "Box Braids-mid-length": 200.0,
+            "Knotless braids": 300.0,
+            "Conrows": 150.0
+        },
+        "information": {
+            "location": "Przyjazni Polsko-W\u0119gierskiej 4",
+            "social_media": "@mv_hairstyle_",
+            "contact": 48501808208,
+            "email": "NIL"
+        }
+    },
+    "AFR-PROD-1-1744003695": {
+        "name": [
+            "Afrospice_Cuisine"
+        ],
+        "category_services": {
+            "Jollof rice -5 litres": 280.0,
+            "Fried rice -5 litres": 280.0,
+            "Asun rice -5lires": 375.0
+        },
+        "information": {
+            "location": "NIL",
+            "social_media": "@afrospice_cuisine",
+            "contact": 48517171876,
+            "email": "NIL"
+        }
+    },
+    "STA-PROD-1-1744042297": {
+        "name": [
+            "Staracakes"
+        ],
+        "category_services": {
+            "Doughut": 25.0,
+            "Chin-Chin": 30.0,
+            "Cake": 70.0,
+            "Meat-pie": 50.0
+        },
+        "information": {
+            "location": "NIL",
+            "social_media": "@staracakes",
+            "contact": 2348037449481,
+            "email": "NIL"
+        }
+    },
+    "KRA-PROD-1-1744083240": {
+        "name": [
+            "krakow_hair"
+        ],
+        "category_services": {
+            "Conrows": 150.0,
+            "Wig installation": 150.0,
+            "Wig sew-in": 200.0,
+            "Long box braid knotless": 300.0
+        },
+        "information": {
+            "location": "os.hutnicze 2/39, Cracovie, PL, 31-917",
+            "social_media": "@krakow_hair",
+            "contact": 48733517586,
+            "email": "nsoluangamalaesther@gmail.com"
+        }
+    },
+    "KRA-PROD-1-1744085143": {
+        "name": [
+            "krakow_hair"
+        ],
+        "category_services": {
+            "braiding": 300.0
+        },
+        "information": {
+            "location": "nil",
+            "social_media": "nil",
+            "contact": 7777,
+            "email": "hhh"
+        }
+    }
+}
