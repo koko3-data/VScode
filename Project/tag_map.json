@@ -1,0 +1,247 @@
+{
+    "forks & fingers": [
+        "plantain",
+        "roasted plantain",
+        "boli",
+        "roasted potato",
+        "roasted yam",
+        "small chops",
+        "puff-puff"
+    ],
+    "hair": [
+        "beauty",
+        "haircare",
+        "styling",
+        "salon",
+        "naturalhair",
+        "cornrows",
+        "protectivestyles"
+    ],
+    "afrohair": [
+        "afro",
+        "naturalhair",
+        "blackbeauty",
+        "protectivestyles",
+        "treatments"
+    ],
+    "haircut": [
+        "men_haircut",
+        "barbing",
+        "hairstyles",
+        "female_haircut",
+        "hairtrends"
+    ],
+    "braids": {
+        "styles": [
+            "boxbraids",
+            "knotless",
+            "ghanaweaving",
+            "cornrows",
+            "fulanibraids",
+            "lemonadebraids",
+            "butterflybraids",
+            "twists"
+        ],
+        "lengths": [
+            "short",
+            "medium",
+            "long"
+        ],
+        "specifics": [
+            "microbraids",
+            "mediumbraids",
+            "longbraids",
+            "braidslength_short",
+            "braidslength_medium",
+            "braidslength_long"
+        ]
+    },
+    "crotchet": {
+        "styles": [
+            "crochetbraids",
+            "fauxlocs",
+            "springtwist",
+            "boholocs",
+            "waterwave"
+        ],
+        "lengths": [
+            "short",
+            "medium",
+            "long"
+        ]
+    },
+    "locs": [
+        "fauxlocs",
+        "microlocs",
+        "sisterlocks",
+        "interlocks",
+        "starterlocs",
+        "retwist",
+        "freeformlocs",
+        "highlocs",
+        "lowlocs"
+    ],
+    "wigs": [
+        "wiginstallation",
+        "wigrevamping",
+        "wigfixin",
+        "wigstyling",
+        "wigcare",
+        "lacewigs",
+        "closurewigs",
+        "frontalwigs",
+        "humanhairwigs",
+        "syntheticwigs",
+        "customwigs",
+        "wigrepair",
+        "wigcleaning",
+        "wigtrimming",
+        "hairreplacement"
+    ],
+    "makeupartist": [
+        "beauty",
+        "makeup",
+        "mua",
+        "cosmetics",
+        "makeupartist",
+        "weddingmakeup",
+        "birthdaymakeup",
+        "glam",
+        "photoshoot",
+        "eventmakeup"
+    ],
+    "makeup": [
+        "beauty",
+        "cosmetics",
+        "mua",
+        "glam"
+    ],
+    "nails": [
+        "beauty",
+        "nailart",
+        "manicure",
+        "pedicure",
+        "acrylicnails",
+        "gelnails"
+    ],
+    "skincare": [
+        "beauty",
+        "skincare",
+        "glow",
+        "wellness",
+        "facials",
+        "organicproducts"
+    ],
+    "afrodishes": [
+        "food",
+        "africanfood",
+        "afrodishes",
+        "traditional",
+        "nigerianfood",
+        "ghanianfood",
+        "eventcatering",
+        "deliveries"
+    ],
+    "afrocuisines": [
+        "africanfood",
+        "recipes",
+        "cuisine",
+        "spices",
+        "jollof",
+        "ofada",
+        "fried",
+        "fufu",
+        "soup"
+    ],
+    "cakes": [
+        "desserts",
+        "baking",
+        "cakes",
+        "celebration",
+        "customcakes",
+        "birthdays",
+        "weddings",
+        "eventcakes"
+    ],
+    "pastries": [
+        "desserts",
+        "snacks",
+        "bakedgoods",
+        "pastries",
+        "meatpie",
+        "puffpuff",
+        "chinchin"
+    ],
+    "snacks": [
+        "snacks",
+        "meatpie",
+        "doughnut",
+        "glazeddoughnut",
+        "milkydoughnut",
+        "chinchin",
+        "sausage",
+        "eggroll",
+        "stickmeat",
+        "smallchops",
+        "puffpuff"
+    ],
+    "africanshops": [
+        "africanmarket",
+        "culture",
+        "grocery",
+        "africanproducts",
+        "retail",
+        "hairproducts",
+        "spices",
+        "fabrics",
+        "ankara",
+        "africanfashion",
+        "accessories"
+    ],
+    "features": [
+        "homeservice",
+        "kidsfriendly",
+        "inhomesalon",
+        "mobilebusiness",
+        "femaleonly",
+        "walkin",
+        "byappointment"
+    ],
+    "eventservices": [
+        "eventcatering",
+        "deliveries",
+        "buffet",
+        "outdoorcatering",
+        "smallchops",
+        "eventplanning"
+    ],
+    "fork & fingers": [
+        "dodo"
+    ],
+    "eyebrows": {
+        "services": [
+            "microblading",
+            "nanoblading",
+            "ombrebrows",
+            "eyebrowlamination",
+            "browshaping",
+            "browtinting",
+            "waxing",
+            "threading"
+        ],
+        "styles": [
+            "naturalbrows",
+            "boldvrows",
+            "featheredbrows",
+            "archedbrow",
+            "definedbrows",
+            "softbrows"
+        ],
+        "care": [
+            "aftercare",
+            "touchup",
+            "healing",
+            "skincare"
+        ]
+    }
+}

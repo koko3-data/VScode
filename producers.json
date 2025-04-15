@@ -78,5 +78,20 @@
             "contact": 7777,
             "email": "hhh"
         }
+    },
+    "STA-PROD-1-1744112953": {
+        "name": [
+            "staracakes"
+        ],
+        "category_services": {
+            "cake": 100.0,
+            "meatpie": 100.0
+        },
+        "information": {
+            "location": "nil",
+            "social_media": "nil",
+            "contact": 9999,
+            "email": "jjj"
+        }
     }
 }

@@ -33,18 +33,25 @@ def add_producers():
                 services[item] = service_price
             except ValueError:
                 print("Invalid price. Please enter a numeric value.")
-                for service,price in services.items():
-                    asked_category = input(f"Enter the category for {item}: ")
-                    if asked_category == "hair":
-                        category_services["hair"].append(service)
-                    elif asked_category== "makeup":
-                        category_services["makeup"].append(service)
-                    elif asked_category == "afro_dishes":
-                        category_services["afro_dishes"].append(service)
-                    elif asked_category == "african_shops":
-                        category_services["african_shops"].append(service)
-                    elif asked_category == "others":
-                        category_services["others"].append(service)
+            for service,price in services.items():
+                        asked_category = input(f"Enter the category for {item}: ")
+                        if asked_category == "hair":
+                            category_services["hair"].append(service)
+                        elif asked_category== "makeup":
+                            category_services["makeup"].append(service)
+                        elif asked_category == "afro_dishes":
+                            category_services["afro_dishes"].append(service)
+                        elif asked_category == "african_shops":
+                            category_services["african_shops"].append(service)
+                        elif asked_category == "others":
+                            category_services["others"].append(service)
+                        
+                        
+                        category_services[asked_category].append(service)
+
+
+
+
 
         producer_location = input(f"Address of {producer_name}: ")
         producer_social_media = input(f"Social media of {producer_name}: ")
